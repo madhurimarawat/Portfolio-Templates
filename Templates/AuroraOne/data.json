@@ -1,0 +1,17 @@
+{
+  "name": "Pooja B",
+  "title": "Computer Science Student · Web & AI Enthusiast",
+  "about": "I build lightweight, accessible web tools and experiments. I enjoy learning new technologies and contributing to open source.",
+  "email": "pooja@example.com",
+  "avatar": "assets/avatar.jpg",
+  "skills": ["HTML","CSS","JavaScript","Python","React","Git"],
+  "timeline": [
+    {"when":"2024 — Present","event":"Undergraduate — B.E. (CSE)"},
+    {"when":"2025","event":"Internship — Frontend Intern"}
+  ],
+  "projects": [
+    {"title":"Eco-Friendly Assistant","desc":"Browser tool that shows environmental score for products.","tags":["javascript","ai"]},
+    {"title":"Finance Tracker","desc":"Expense tracker with insights and charts.","tags":["python","web"]},
+    {"title":"Portfolio Templates","desc":"Contributed templates to OSS project.","tags":["opensource","html"]}
+  ]
+}

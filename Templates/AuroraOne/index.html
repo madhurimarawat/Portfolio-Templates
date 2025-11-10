@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>AuroraOne — Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<div class="control-panel">
+  <button id="theme-toggle" aria-label="Toggle theme">🌙</button>
+  <input type="color" id="color-picker" title="Choose accent color" />
+</div>
+
+ <header class="hero" id="home">
+  <div class="hero-inner">
+    <img id="avatar" alt="Avatar" src="assets/avatar.jpg" />
+    <h1 id="name"></h1>
+    <p id="headline"></p>
+    <nav class="hero-ctas">
+      <a href="#projects" class="btn">See Projects</a>
+      <a href="#contact" class="btn ghost">Contact</a>
+    </nav>
+  </div>
+</header>
+
+
+  <main>
+    <section id="about" class="panel">
+      <h2>About</h2>
+      <p id="about-text"></p>
+    </section>
+
+    <section id="skills" class="panel">
+      <h2>Skills</h2>
+      <ul id="skill-list" class="skills"></ul>
+    </section>
+
+    <section id="projects" class="panel">
+      <h2>Projects</h2>
+      <div class="filters" id="filters"></div>
+      <div id="project-list" class="projects-grid" aria-live="polite"></div>
+    </section>
+
+    <section id="timeline" class="panel">
+      <h2>Timeline</h2>
+      <ol id="timeline-list" class="timeline"></ol>
+    </section>
+
+    <section id="contact" class="panel">
+      <h2>Contact</h2>
+      <p id="contact-email"></p>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <small>&copy; <span id="year"></span> <span id="footer-name"></span></small>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
