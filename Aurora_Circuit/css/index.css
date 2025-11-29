@@ -1,29 +1,38 @@
 :root {
-    --bg-overlay: rgba(255, 255, 255, 0.25);
+    /* Aurora background overlay */
+    --bg-overlay: rgba(248, 250, 252, 0.88);
 
+    /* Main background */
     --color-bg: #f8fafc;
 
-    --color-surface: rgba(255, 255, 255, 0.92);
-    --color-surface-alt: rgba(248, 250, 252, 0.95);
+    /* Glass cards */
+    --color-surface: rgba(255, 255, 255, 0.85);
+    --color-surface-alt: rgba(255, 255, 255, 0.92);
 
+    /* Text */
     --color-text: #0f172a;
     --color-muted: #475569;
 
+    /* Primary Aurora Blue */
     --color-primary: #2563eb;
-    --color-primary-soft: #60a5fa;
-    --color-accent: #f97316;
+    --color-primary-soft: #3b82f6;
 
-    --color-border-soft: rgba(36, 56, 90, 0.15);
+    /* Accent */
+    --color-accent: #06b6d4;
 
-    --color-tag-bg: rgba(248, 250, 252, 0.9);
-    --color-tag-border: rgba(36, 56, 90, 0.2);
+    /* Borders */
+    --color-border-soft: rgba(15, 23, 42, 0.2);
 
-    --color-header-bg: rgba(255, 255, 255, 0.85);
+    /* Tags / pills */
+    --color-tag-bg: rgba(255, 255, 255, 0.8);
+    --color-tag-border: rgba(15, 23, 42, 0.25);
+
+    /* Header/Footer */
+    --color-header-bg: rgba(255, 255, 255, 0.78);
     --color-footer-text: #0f172a;
-    --color-footer-muted: #475569;
+    --color-footer-muted: #64748b;
 
+    /* Hero section */
     --color-hero-text: #0f172a;
     --color-hero-muted: #475569;
 }
-
-
