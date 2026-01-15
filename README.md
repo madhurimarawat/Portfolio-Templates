@@ -98,12 +98,12 @@ A collection of **beautiful**, **easy-to-use**, and **professional portfolio tem
 
 ## 🧩 Key Features
 
-* 📁 **Multiple Templates & Themes** — Browse [Templates.md](Templates.md) to explore all available options.
-* ⚙️ **Data-Driven** — All personal details and links are pulled from JSON files.
-* 🌙 **Light & Dark Mode** — Each template supports dynamic theme switching.
-* 💻 **Fully Responsive** — Mobile, tablet, and desktop views are supported out of the box.
-* 🚀 **Automated Setup** — Python scripts make onboarding and updates effortless.
-* 📚 **Dedicated Docs** — Each template and theme comes with its own separate documentation for easy understanding and customization.
+* 📁 **Multiple Templates & Themes**: Browse [Templates.md](Templates.md) to explore all available options.
+* ⚙️ **Data-Driven**: All personal details and links are pulled from JSON files.
+* 🌙 **Light & Dark Mode**: Each template supports dynamic theme switching.
+* 💻 **Fully Responsive**: Mobile, tablet, and desktop views are supported out of the box.
+* 🚀 **Automated Setup**: Python scripts make onboarding and updates effortless.
+* 📚 **Dedicated Docs**: Each template and theme comes with its own separate documentation for easy understanding and customization.
 
 ---
 
@@ -321,4 +321,3 @@ All contributions are appreciated! Want to contribute? Check out:
 📫 How to reach me:  &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-madhurima-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/madhurima-rawat/) &nbsp; &nbsp;
 <a href ="mailto:rawatmadhurima4@gmail.com"><img src="https://github.com/madhurimarawat/Machine-Learning-Using-Python/assets/105432776/b6a0873a-e961-42c0-8fbf-ab65828c961a" height=35 width=30 title="Mail Illustration" alt="Mail Illustration📫" > </a><br><br>
 - **Contribute and Discuss:** Feel free to open <a href= "https://github.com/madhurimarawat/Portfolio-Templates/issues">issues 🐛</a>, submit <a href = "https://github.com/madhurimarawat/Portfolio-Templates/pulls">pull requests 🛠️</a>, or start <a href = "https://github.com/madhurimarawat/Portfolio-Templates/discussions">discussions 💬</a> to help improve this repository!
-
