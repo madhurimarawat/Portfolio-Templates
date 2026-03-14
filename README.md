@@ -72,6 +72,8 @@ A collection of **beautiful**, **easy-to-use**, and **professional portfolio tem
 
 🔗 [**Live Demo**](https://madhurimarawat.github.io/Portfolio-Templates/)
 
+Use this repository as a **GitHub template** to quickly create your own portfolio, simply click **[Use this template](https://github.com/madhurimarawat/Portfolio-Templates/generate)**, customize the content, and deploy your site using **GitHub Pages or Netlify**.
+
 <div align="center">
 
 <a href="https://madhurimarawat.github.io/Portfolio-Templates">
@@ -270,13 +272,14 @@ If you'd like to add a new template or theme, visit [`CONTRIBUTING.md`](CONTRIBU
 
 ---
 
-## 📸 Example Usage  
+## 📸 Community Showcase
 
 🔗 [Submit your usage](https://github.com/madhurimarawat/Portfolio-Templates/issues) using our [Example Usage Submission Template](https://github.com/madhurimarawat/Portfolio-Templates/blob/main/.github/ISSUE_TEMPLATE/example-usage-submission.md)! 🚀  
 
 | **Snapshot**                                                                                                                      | **Project Name**  | **Description**                                     | **Project Link**                                                            |
 | --------------------------------------------------------------------------------------------------------------------------------- | ----------------- | --------------------------------------------------- | --------------------------------------------------------------------------- |
-| <img src="https://raw.githubusercontent.com/madhurimarawat/Portfolio-Templates/main/site-previews/website_1.png" width="250"> | Example Project   | Showcasing Portfolio-Templates in a website layout. | [View Project](https://madhurimarawat.github.io/Portfolio-Templates/)       |
+| <img src="https://raw.githubusercontent.com/madhurimarawat/Portfolio-Templates/main/site-previews/website_1.png" width="250"> | Portfolio-Templates   | Showcasing Portfolio-Templates in a website layout. | [View Project](https://madhurimarawat.github.io/Portfolio-Templates/)       |
+| <img src="https://raw.githubusercontent.com/madhurimarawat/Portfolio-Templates/main/site-previews/Noa-Patchornik_website.png" width="250"> | Personal Portfolio | Built using the **Minimalist Professional** template with the **Slate Ember** theme. | [View Project](https://noa-patchornik.github.io/protfolio/) · by [noa-patchornik](https://github.com/noa-patchornik) |
 | Add yours here!                                                                                                                   | Your Project Name | Briefly describe how you used Portfolio-Templates.  | [Submit here](https://github.com/madhurimarawat/Portfolio-Templates/issues) |
 
 ---
