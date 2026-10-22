@@ -115,7 +115,7 @@ Aurora_Circuit
   /images
     sample-image.jpg     # subtle hero background
   /site-previews
-    desktop_website.png  # screenshot (add later)
+    desktop_website.png  # screenshot
     mobile_website.png
     website_1.png
   index.html             # main template file
